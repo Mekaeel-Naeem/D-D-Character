@@ -1,2 +1,6 @@
-# D-D-Character
-My D&amp;D Character Sheet Webstie
+This is my D&D character, a Hill Giant Goliath Paladin. His backstory is that he left his sentry post during wartime in his kingdom, leading to an attack that killed his father a royal captain. He inherited the role and fought for years in a brutal war. However, he was not able to lead his forces to victory, and his kingdom was destroyed, with him being the sole survivor. He was taken in by an old cleric, who was soon killed in an orc raid. He vows to rid the world of evil, and has developed a violent code: 
+
+"I am the ghost of a ruined throne I never took. My kingdom bled, and I was forced to live. When the only man who showed me mercy was slaughtered by the same shadow, my grief finally turned into iron. I spent years painting the mountains red with the blood of his killers. I do not carry a shield to save myself; I carry the crest of a graveyard, and I will not rest until the force that broke my world is ground into dust.
+
+Purity and mercy are for the righteous and innocent. I am the weapon that cleanses the filth. To that same filth, I mark you in the sight of all that is holy. Run, and I will find you in the dark. There will be no songs of my glory. My name will live only in the final, impotent curses of the dying and in prayers to ignorant gods. Justice does not care how clean my hands are, only that they strike true. From this second onto your last, you belong to my thirsty blade alone. This, is my oath of vengeance…"
+
